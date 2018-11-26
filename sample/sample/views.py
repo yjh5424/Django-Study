@@ -1,0 +1,4 @@
+
+
+
+class PersonViewSet(viewsets.ModelViewSet):
